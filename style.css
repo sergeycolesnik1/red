@@ -1,0 +1,11 @@
+body{
+    padding:0px 0px 0px 0px;
+    background-color: blue;
+    color: darkorange;
+}
+.main{
+    margin:0px 0px 0px 0px;
+    width: 400px;
+    height: 500px;
+    color: aqua;
+}
